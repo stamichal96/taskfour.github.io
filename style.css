@@ -1,0 +1,12 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .background {
+    background-image: url("./assets/test_photo2.jpg");
+    height: 100%; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
